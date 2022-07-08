@@ -1,5 +1,5 @@
 
-name: Python application
+name: Test suite
 
 on: workflow_dispatch
 
