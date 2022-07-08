@@ -6,4 +6,4 @@ def test_the_tests():
   print("Corriendo test de prueba... ")
   assert True
 
-  #assert 2 == 3
+  assert 2 == 3
