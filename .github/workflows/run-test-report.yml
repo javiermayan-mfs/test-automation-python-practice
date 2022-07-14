@@ -1,5 +1,5 @@
 
-name: Pytest Allure report
+name: Run test suite with report
 
 on: workflow_dispatch
 
